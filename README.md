@@ -35,8 +35,8 @@ Me chamo Anna Luiza e sou de Resende,RJ. Sou iniciante em Lógica de Programaç�
 ### Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annalubarbosa&layout=compact&count_private=true)
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thaispll&hide_border=true)
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=thaispll&count_private=true&show_icons=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=annalubarbosa&hide_border=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=annalubarbosa&count_private=true&show_icons=true)
 
 
 ### Let's connect? 🤝 💛 
